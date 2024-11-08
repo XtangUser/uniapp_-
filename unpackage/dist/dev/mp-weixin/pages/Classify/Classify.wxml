@@ -1,0 +1,1 @@
+<view class="classLayout pageBg data-v-e6c0586a"><custom-nav-bar wx:if="{{a}}" class="data-v-e6c0586a" u-i="e6c0586a-0" bind:__l="__l" u-p="{{a}}"></custom-nav-bar><view class="classify data-v-e6c0586a"><theme-title wx:for="{{b}}" wx:for-item="item" wx:key="a" class="data-v-e6c0586a" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></theme-title></view></view>
